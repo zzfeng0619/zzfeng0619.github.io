@@ -2,9 +2,8 @@
 new Vue({
     data: function () {
         this.$notify({
-            title: "你已被发现😜",
-            message: "小伙子，扒源记住要遵循GPL协议！",
-            position: 'top-left',
+            title: "学姐好啊，学姐贴贴！😜",
+            message: "学姐要开心哦，我有想你哒！！",
             offset: 50,
             showClose: true,
             type: "warning",
