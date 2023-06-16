@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>糖果屋微调合集</title>
-      <link href="/2023/05/02/2023-5-02-%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/05/02/2023-5-02-%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>诗词测试</title>
+      <link href="/2023/06/12/%E8%AF%97%E8%AF%8D%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/06/12/%E8%AF%97%E8%AF%8D%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class='poem'><div class='poem-title'>水调歌头</div><div class='poem-author'>苏轼</div><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。<br>明月几时有？把酒问青天。<br>不知天上宫阙，今夕是何年？<br>我欲乘风归去，又恐琼楼玉宇，高处不胜寒。<br>起舞弄清影，何似在人间？</p><p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，此事古难全。<br>但愿人长久，千里共婵娟。</p></div>]]></content>
       
       
       <categories>
           
-          <category> life </category>
+          <category> 生活的美好 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签3 </tag>
+            <tag> 折磨人的学习 </tag>
             
         </tags>
       
@@ -29,23 +29,73 @@
     
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2023/04/29/2023-4-29-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/04/29/2023-4-29-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>在线PDF测试</title>
+      <link href="/2023/06/12/%E5%9C%A8%E7%BA%BFPDF%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/06/12/%E5%9C%A8%E7%BA%BFPDF%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><div class="timeline [color]"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>你好呀！文章的更新从今天就开始啦！ </p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-03-10（去师大啦！）</p></div></div><div class='timeline-item-content'><div class="img-wrap"><div class="img-bg"><img class="img" src="https://img1.imgtp.com/2023/05/26/JsWXTLup.jpg" alt="当然要记录啊，又不是每天都有美好的故事发生！" style="width:600px;"/></div><span class="image-caption">当然要记录啊，又不是每天都有美好的故事发生！</span></div></div></div></div>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-本地文件-在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx-pdf的文件"><a href="#1-本地文件-在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx-pdf的文件" class="headerlink" title="1.本地文件:在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx.pdf的文件"></a>1.本地文件:在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx.pdf的文件</h1><div class="row">    <embed src="xxx.pdf" width="100%" height="550" type="application/pdf"></div><h1 id="2-在线链接"><a href="#2-在线链接" class="headerlink" title="2.在线链接"></a>2.在线链接</h1><div class="row">    <embed src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/pdf/小作文讲义.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
       
       
       <categories>
           
-          <category> life </category>
+          <category> 生活的美好 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签1 </tag>
+            <tag> 折磨人的学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>引用文献测试</title>
+      <link href="/2023/06/11/%E5%BC%95%E7%94%A8%E6%96%87%E7%8C%AE%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/06/11/%E5%BC%95%E7%94%A8%E6%96%87%E7%8C%AE%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<p>Akilarの糖果屋(akilar.top)是一个私人性质的博客<span class="hidden-anchor" id="referto_[1]"></span><sup class="reference"><a href="#referfrom_[1]">[1]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Akilarの糖果屋群聊简介</span><span class="reference-title">参考资料</span></span></span>，从各类教程至生活点滴，无话不谈。建群的目的是提供一个闲聊的场所。博客采用Hexo框架<span class="hidden-anchor" id="referto_[2]"></span><sup class="reference"><a href="#referfrom_[2]">[2]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Hexo中文文档</span><span class="reference-title">参考资料</span></span></span>，Butterfly主题<span class="hidden-anchor" id="referto_[3]"></span><sup class="reference"><a href="#referfrom_[3]">[3]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Butterfly 安装文档(一) 快速开始</span><span class="reference-title">参考资料</span></span></span></p><p>本项目参考了Volantis<span class="hidden-anchor" id="referto_[4]"></span><sup class="reference"><a href="#referfrom_[4]">[4]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">hexo-theme-volantis 标签插件</span><span class="reference-title">参考资料</span></span></span>的标签样式。引入<code>[tag].js</code>，并针对<code>butterfly</code>主题修改了相应的<code>[tag].styl</code>。在此鸣谢<code>Volantis</code>主题众开发者。<br>主要参考内容包括各个volantis的内置标签插件文档<span class="hidden-anchor" id="referto_[5]"></span><sup class="reference"><a href="#referfrom_[5]">[5]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Volantis文档:内置标签插件</span><span class="reference-title">参考资料</span></span></span><br>Butterfly主题的各个衍生魔改<span class="hidden-anchor" id="referto_[6]"></span><sup class="reference"><a href="#referfrom_[6]">[6]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">Butterfly 安装文档:标签外挂（Tag Plugins</span><span class="reference-title">参考资料</span></span></span><span class="hidden-anchor" id="referto_[7]"></span><sup class="reference"><a href="#referfrom_[7]">[7]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">小弋の生活馆全样式预览</span><span class="reference-title">参考资料</span></span></span><span class="hidden-anchor" id="referto_[8]"></span><sup class="reference"><a href="#referfrom_[8]">[8]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">l-lin-font-awesome-animation</span><span class="reference-title">参考资料</span></span></span><span class="hidden-anchor" id="referto_[9]"></span><sup class="reference"><a href="#referfrom_[9]">[9]</a></sup><span class="reference-bubble"><span class="reference-item"><span class="reference-literature">小康的butterfly主题使用文档</span><span class="reference-title">参考资料</span></span></span></p><div class="reference-source"><span class="hidden-anchor" id="referfrom_[1]"></span><a class="reference-anchor" href="#referto_[1]">[1]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://jq.qq.com/?_wv=1027&k=pGLB2C0N">Akilarの糖果屋群聊简介</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[2]"></span><a class="reference-anchor" href="#referto_[2]">[2]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://hexo.io/zh-cn/docs/">Hexo中文文档</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[3]"></span><a class="reference-anchor" href="#referto_[3]">[3]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 安装文档(一) 快速开始</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[4]"></span><a class="reference-anchor" href="#referto_[4]">[4]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://volantis.js.org/v5/tag-plugins/">hexo-theme-volantis 标签插件</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[5]"></span><a class="reference-anchor" href="#referto_[5]">[5]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://volantis.js.org/tag-plugins/">Volantis文档:内置标签插件</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[6]"></span><a class="reference-anchor" href="#referto_[6]">[6]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://butterfly.js.org/posts/4aa8abbe/#%E6%A8%99%E7%B1%A4%E5%A4%96%E6%8E%9B%EF%BC%88Tag-Plugins%EF%BC%89">Butterfly 安装文档:标签外挂（Tag Plugins</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[7]"></span><a class="reference-anchor" href="#referto_[7]">[7]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://lovelijunyi.gitee.io/posts/c898.html">小弋の生活馆全样式预览</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[8]"></span><a class="reference-anchor" href="#referto_[8]">[8]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://github.com/l-lin/font-awesome-animation">l-lin-font-awesome-animation</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[9]"></span><a class="reference-anchor" href="#referto_[9]">[9]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://www.antmoe.com/posts/3b43914f/">小康的butterfly主题使用文档</a></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 折磨人的学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>糖果屋微调合集</title>
+      <link href="/2023/05/02/2023-5-02-%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/05/02/2023-5-02-%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="2-在线链接"><a href="#2-在线链接" class="headerlink" title="2.在线链接"></a>2.在线链接</h1><div class="row">    <embed src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/pdf/小作文讲义.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 折磨人的学习 </tag>
             
         </tags>
       
@@ -58,23 +108,44 @@
       <link href="/2023/04/29/2023-4-29-%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/04/29/2023-4-29-%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-本地文件-在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx-pdf的文件"><a href="#1-本地文件-在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx-pdf的文件" class="headerlink" title="1.本地文件:在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx.pdf的文件"></a>1.本地文件:在md文件路径下创建一个同名文件夹，其内放pdf文件名为xxx.pdf的文件</h1>]]></content>
+        <content type="html"><![CDATA[<h3 id="Butterfly外挂标签-学习页面"><a href="#Butterfly外挂标签-学习页面" class="headerlink" title="Butterfly外挂标签 学习页面"></a>Butterfly外挂标签 学习页面</h3><p>带着 <u>下划线</u>的文本<br>带着 <emp>着重号</emp>的文本<br>带着 <wavy>波浪线</wavy>的文本<br>带着 <del>删除线</del>的文本<br>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd><br>密码样式的文本: <psw>这里没有yanzheng</psw></p>]]></content>
       
       
       <categories>
           
-          <category> life </category>
-          
-          <category> study </category>
-          
-          <category> idea </category>
+          <category> 生活的美好 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签4 </tag>
+            <tag> 折磨人的学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>师大篇</title>
+      <link href="/2023/04/29/2023-3-9-%E5%B8%88%E5%A4%A7%E7%AF%87/"/>
+      <url>/2023/04/29/2023-3-9-%E5%B8%88%E5%A4%A7%E7%AF%87/</url>
+      
+        <content type="html"><![CDATA[<div class="timeline [color]"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>今天的故事是记录 </p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-03-10（去师大啦！）</p></div></div><div class='timeline-item-content'><div class="img-wrap"><div class="img-bg"><img class="img" src="https://pic.imgdb.cn/item/647f593c1ddac507cc8de7c1.jpg" alt="去师大啦，不得不说真的很堵车，而且晕车啦！" style="width:600px;"/></div><span class="image-caption">去师大啦，不得不说真的很堵车，而且晕车啦！</span></div></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录生活的时光 </tag>
             
         </tags>
       
@@ -92,47 +163,14 @@
       
       <categories>
           
-          <category> life </category>
-          
-          <category> study </category>
-          
-          <category> idea </category>
+          <category> 生活的美好 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签2 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第二篇文章</title>
-      <link href="/2023/04/29/2023-4-29-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/04/29/2023-4-29-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h1 id="2-在线链接"><a href="#2-在线链接" class="headerlink" title="2.在线链接"></a>2.在线链接</h1><div class="row">    <embed src="https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/pdf/小作文讲义.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> life </category>
-          
-          <category> study </category>
-          
-          <category> idea </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 标签2 </tag>
+            <tag> 折磨人的学习 </tag>
             
         </tags>
       
@@ -150,16 +188,14 @@
       
       <categories>
           
-          <category> study </category>
-          
-          <category> idea </category>
+          <category> 生活的美好 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签3 </tag>
+            <tag> 折磨人的学习 </tag>
             
         </tags>
       
@@ -177,16 +213,139 @@
       
       <categories>
           
-          <category> life </category>
-          
-          <category> study </category>
+          <category> 生活的美好 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签4 </tag>
+            <tag> 折磨人的学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故事的开始</title>
+      <link href="/2023/04/29/%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+      <url>/2023/04/29/%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="故事的开始"><a href="#故事的开始" class="headerlink" title="故事的开始"></a>故事的开始</h2><div class="timeline [color]"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>你好呀！文章的更新从今天就开始啦！ </p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2023-03-10（故事的开始其实有些突然！）</p></div></div><div class='timeline-item-content'><div class="img-wrap"><div class="img-bg"><img class="img" src="https://pic.imgdb.cn/item/647f56b31ddac507cc8471b3.png" alt="当然要记录啊，又不是每天都有美好的故事发生！" style="width:400px;"/></div><span class="image-caption">当然要记录啊，又不是每天都有美好的故事发生！</span></div></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录生活的时光 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>视频测试</title>
+      <link href="/2023/04/29/%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/04/29/%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<div class="video"><video controls preload><source src='https://github.com/volantis-x/volantis-docs/releases/download/assets/IMG_0341.mov' type='video/mp4'>Your browser does not support the video tag.</video></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 折磨人的学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册测试</title>
+      <link href="/2023/04/29/%E7%9B%B8%E5%86%8C%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/04/29/%E7%9B%B8%E5%86%8C%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://cdn.cbd.int/akilar-candyassets@1.0.36/image/1.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">MC</div>  <p>在Rikkaの六花服务器里留下的足迹</p>  <a href='/gallery/MC/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://cdn.cbd.int/akilar-candyassets@1.0.36/image/20200907110508327.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Gundam</div>  <p>哦咧哇gundam哒！</p>  <a href='/gallery/Gundam/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://cdn.cbd.int/akilar-candyassets@1.0.36/image/20200907113116651.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">I-am-Akilar</div>  <p>某种意义上也算自拍吧</p>  <a href='/gallery/I-am-Akilar/'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 折磨人的学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网站卡片测试</title>
+      <link href="/2023/04/29/%E7%BD%91%E7%AB%99%E5%8D%A1%E7%89%87/"/>
+      <url>/2023/04/29/%E7%BD%91%E7%AB%99%E5%8D%A1%E7%89%87/</url>
+      
+        <content type="html"><![CDATA[<div class="site-card-group"><a class="site-card" href="https://xaoxuu.com"><div class="img"><img src="https://i.loli.net/2020/08/21/VuSwWZ1xAeUHEBC.jpg"/></div><div class="info"><img src="https://cdn.jsdelivr.net/gh/fomalhaut1998/cdn-assets/avatar/avatar.png"/><span class="title">xaoxuu</span><span class="desc">简约风格</span></div></a><a class="site-card" href="https://inkss.cn"><div class="img"><img src="https://i.loli.net/2020/08/21/Vzbu3i8fXs6Nh5Y.jpg"/></div><div class="info"><img src="https://cdn.jsdelivr.net/gh/inkss/common@master/static/web/avatar.jpg"/><span class="title">inkss</span><span class="desc">这是一段关于这个网站的描述文字</span></div></a><a class="site-card" href="https://blog.mhuig.top"><div class="img"><img src="https://i.loli.net/2020/08/22/d24zpPlhLYWX6D1.png"/></div><div class="info"><img src="https://cdn.jsdelivr.net/gh/MHuiG/imgbed@master/data/p.png"/><span class="title">MHuiG</span><span class="desc">这是一段关于这个网站的描述文字</span></div></a><a class="site-card" href="https://colsrch.top"><div class="img"><img src="https://i.loli.net/2020/08/22/dFRWXm52OVu8qfK.png"/></div><div class="info"><img src="https://cdn.jsdelivr.net/gh/Colsrch/images/Colsrch/avatar.jpg"/><span class="title">Colsrch</span><span class="desc">这是一段关于这个网站的描述文字</span></div></a><a class="site-card" href="https://linhk1606.github.io"><div class="img"><img src="https://i.loli.net/2020/08/21/3PmGLCKicnfow1x.png"/></div><div class="info"><img src="https://i.loli.net/2020/02/09/PN7I5RJfFtA93r2.png"/><span class="title">Linhk1606</span><span class="desc">这是一段关于这个网站的描述文字</span></div></a></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 折磨人的学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音频测试</title>
+      <link href="/2023/04/29/%E9%9F%B3%E9%A2%91%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/04/29/%E9%9F%B3%E9%A2%91%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<div class="audio"><audio controls preload><source src='https://github.com/volantis-x/volantis-docs/releases/download/assets/Lumia1020.mp3' type='audio/mp3'>Your browser does not support the audio tag.</audio></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活的美好 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 折磨人的学习 </tag>
             
         </tags>
       
